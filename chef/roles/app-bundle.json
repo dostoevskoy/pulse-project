@@ -8,6 +8,6 @@
   "run_list": [
     "recipe[pulse]"
   ],
-  "override_attributes": {
+  "override_attributes_bububu": {
   }
 }
